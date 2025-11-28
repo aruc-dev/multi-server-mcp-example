@@ -45,9 +45,8 @@ def create_graph(tools: list):
     # LLM configuration with environment variable support
     google_api_key = os.getenv("GOOGLE_GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
     if not google_api_key:
-        # Fallback to hardcoded key (not recommended for production)
-        print("Warning: GOOGLE_GEMINI_API_KEY environment variable not set. Using fallback.")
-        google_api_key = "AIzaSyA_0UX9I73Yi_Cq_522ajOvIV6NObE-dOg"
+        raise ValueError("GOOGLE_GEMINI_API_KEY environment variable is not set. Please set your API key in .env file.")
+    
     
     llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0, google_api_key=google_api_key)
     llm_with_tools = llm.bind_tools(tools)
