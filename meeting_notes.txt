@@ -1,0 +1,48 @@
+# Ed Tech Company Meeting Notes
+## Weekly Team Meeting - November 27, 2025
+
+### Attendees
+- Sarah Johnson (Product Manager)
+- Mike Chen (Lead Developer) 
+- Lisa Rodriguez (UX Designer)
+- James Wilson (Data Analyst)
+- Emily Zhang (Marketing Manager)
+
+### Discussion Points
+
+#### Q4 Goals Review
+- Online course completion rates up 15% this quarter
+- Mobile app downloads exceeded target by 23%
+- Customer satisfaction scores averaging 4.2/5.0
+
+#### New Features Discussion
+- **Adaptive Learning Engine**: AI-powered personalized learning paths
+- **Social Learning Features**: Study groups and peer collaboration tools
+- **Offline Mode**: Download courses for offline study
+- **Progress Analytics**: Enhanced dashboards for learners and instructors
+
+#### Technical Challenges
+- Database scaling issues during peak usage hours
+- Mobile app performance optimization needed
+- Integration challenges with third-party assessment tools
+
+#### Marketing Initiatives
+- Partnership with major universities for course accreditation
+- Influencer collaboration campaign launching December
+- Free trial period extension from 7 to 14 days
+
+### Action Items
+1. Mike to investigate database optimization solutions by Dec 5
+2. Lisa to create wireframes for social learning features by Dec 3
+3. James to analyze user engagement patterns for adaptive learning by Dec 7
+4. Emily to finalize university partnership agreements by Dec 10
+5. Sarah to prioritize feature roadmap for Q1 2026 by Nov 30
+
+### Next Meeting
+December 4, 2025 at 2:00 PM PST
+
+### Budget Allocation
+- Development: 40% of Q1 budget
+- Marketing: 30% of Q1 budget  
+- Infrastructure: 20% of Q1 budget
+- Research: 10% of Q1 budget
